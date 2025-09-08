@@ -1,0 +1,11 @@
+cars = ["bmw", "audi", "toyota", "subaru", "mercedes", "ferrari", "lamborghini", "porsche", "honda", "ford"]
+print(f"{cars[0]} is my favorite car")
+print(f"{cars[1]} is my second favorite car")
+print(f"{cars[2]} is my third favorite car")
+print(cars[3])
+print(cars[4])
+print(cars[5])
+print(cars[6])
+print(cars[7])
+print(cars[8])
+print(cars[9])

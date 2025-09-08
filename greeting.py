@@ -1,0 +1,11 @@
+names = [ "Leri" , "Luka" , "beqa" , "Nika" , "Misho" , "ladi" , "mariam" , "ana" , "nino" , "sandro" ]
+print(f" whats up {names[0].title()} , do you enjoy programming ?")
+print(f"{names[1].upper()} dude call me when you are free")
+print(f"{names[2].lower()} how is you apartment doing ?")
+print(f"{names[3].title()} are you coming to the party ?")
+print(f"{names[4].capitalize()} bro lets go to the gym")
+print(f"{names[5].title()} what are you doing tomorrow ?")
+print(f'{names[6].title()}, did you finish your homework ?')
+print(f'{names[-3].title()}, are you working today ?')
+print(f'{names[-2].title()}, do you want to grab some lunch ?')
+print(f"{names[-1].title()}, lets go for a walk ")
