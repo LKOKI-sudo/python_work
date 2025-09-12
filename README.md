@@ -1,5 +1,5 @@
 <h3 align="center">
-    Python Studying Material and exaples
+    Python Studying Exaples
     </a>
 </h3>
 
